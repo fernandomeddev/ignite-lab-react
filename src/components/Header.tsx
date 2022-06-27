@@ -2,7 +2,7 @@ import { Logo } from "./Logo";
 
 export function Header() {
    return (
-       <header className="w-full py-5 flex intems-center justify-center bg-gray-700 border-gray-600">
+       <header className="w-full flex intems-center justify-center bg-black border-gray-600">
            <Logo />
        </header>
    ) 
