@@ -36,7 +36,7 @@ export function Subscribe(){
                 <div className="max-w-[640]">
                     <Logo />
                     <h1 className="mt-8 text-[2.5rem]">
-                        Contrua uma Aplicação com C# com WebForms EF e sqlserver
+                        Construa uma Aplicação com C# com WebForms EF e sqlserver
                     </h1>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil labore a dolorum nostrum voluptas.

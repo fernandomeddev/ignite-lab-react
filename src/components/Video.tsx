@@ -70,19 +70,19 @@ export function Video(props:VideoProps) {
                 
 
                 <div className="flex flex-col gap-4">
-                    <a href="" className="p-4 text-sm bg-green-500 flex items-center rounded font-bold uppercase gap-2 justify-center hover:bg-green-700 transition-colors">
+                    <a href="#" className="p-4 text-sm bg-green-500 flex items-center rounded font-bold uppercase gap-2 justify-center hover:bg-green-700 transition-colors">
                         <DiscordLogo size={24} />
                         Comunidade do Discord
                     </a>
 
-                    <a href="" className="p-4 text-sm border border-blue-500 text-blue-500 flex items-center rounded font-bold uppercase gap-2 justify-center hover:bg-blue-500  hover:text-gray-900 transition-colors ">
+                    <a href="#" className="p-4 text-sm border border-blue-500 text-blue-500 flex items-center rounded font-bold uppercase gap-2 justify-center hover:bg-blue-500  hover:text-gray-900 transition-colors ">
                         <Lightning size={24} />
                         Acesso o desafio
                     </a>
                 </div>
             </div>
             <div className="gap-8 mt-20 grid grid-cols-2">
-                <a  href="" className=" bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-6-- transition-colors">
+                <a  href="#" className=" bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-6-- transition-colors">
                     <div className="bg-green-700 h-full p-6 flex items-center">
                         <FileArrowDown size={40} />
                     </div>
@@ -97,7 +97,7 @@ export function Video(props:VideoProps) {
                     </div>
                 </a>
 
-                <a  href="" className=" bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-6-- transition-colors">
+                <a  href="#" className=" bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-6-- transition-colors">
                     <div className="bg-green-700 h-full p-6 flex items-center">
                         <FileArrowDown size={40} />
                     </div>
@@ -111,7 +111,7 @@ export function Video(props:VideoProps) {
                         <CaretRight size={24} />
                     </div>
                 </a>
-                <a href=""></a>
+                <a href="#"></a>
             </div>
         </div>
     </div>
