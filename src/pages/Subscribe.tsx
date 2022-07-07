@@ -72,7 +72,6 @@ export function Subscribe(){
                         >
                             Garantir minha Vaga!
                         </button>
-                        <span className="ml-2">Já é Cadastrado? <a className="hover:text-green-500" href="/event"> clique aqui </a></span>
                     </form>
                 </div>
             </div>
