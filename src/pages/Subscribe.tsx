@@ -68,10 +68,11 @@ export function Subscribe(){
                         <button 
                           type="submit"
                           disabled={loading}
-                          className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition-colors disabled:opacity-50 "
+                          className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 hover:text-gray-500 transition-colors disabled:opacity-50 "
                         >
                             Garantir minha Vaga!
                         </button>
+                        <span className="ml-2">Já é Cadastrado? <a className="hover:text-green-500" href="/event"> clique aqui </a></span>
                     </form>
                 </div>
             </div>
